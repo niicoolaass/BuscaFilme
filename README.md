@@ -1,4 +1,4 @@
-<h1 align="center">Busca de filmes com API</h1>
+<h1 align="center">Buscador de filmes com API</h1>
 Projeto para consumo de API utilizando método HTTP para buscar filmes, utilizando a biblioteca Gson para conversão em JSON e filtragem dos dados necessários para o resultado da busca. Ao finalizar, será criado um arquivo JSON com os dados dos filmes buscados pelo usuário.
 <h2>Dependência - Biblioteca Gson</h2>        
 1. **Configure o IntelliJ IDEA:**
